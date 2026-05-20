@@ -7,4 +7,4 @@
 
 
 🛠 Tech Stack
-React JavaScript CSS Node.js Express.js MySQL Git GitHub
+React Javascript CSS Node.js Express.js MySQL git GitHub
